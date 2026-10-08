@@ -1,0 +1,15 @@
+# ninja log v7
+1731	1950	1791411654576534471	CMakeFiles/cudart_example.dir/examples/main.cpp.o	d320a03f2a805490
+2	135	1791412115271853280	CMakeFiles/cudart_runtime.dir/src/model.cpp.o	9200944553ecec1
+135	283	1791412115403676455	CMakeFiles/cudart_runtime.dir/src/utils.cpp.o	41c7e65877627ae5
+2	225	1791412115270676113	CMakeFiles/cudart_runtime.dir/src/tensor.cpp.o	580ba8aea2a245a9
+1	3140	1791412499048661135	CMakeFiles/cudart_runtime.dir/src/layers/linear.cu.o	e855abfe449d57b4
+1	3004	1791412499049969043	CMakeFiles/cudart_runtime.dir/src/layers/relu.cu.o	d08fbdefa0b0ecde
+1274	1470	1791412116542679378	CMakeFiles/cudart_runtime.dir/src/layers/flatten.cpp.o	b8946384300684f
+3140	3170	1791412502187669192	libcudart_runtime.a	a933052388eceebd
+1	5	1791392586721471846	clean	7adf74806070bde8
+3170	3220	1791412502218233535	cudart_example	c9ba824c00795ddd
+225	861	1791412115493676686	CMakeFiles/cudart_runtime.dir/src/loader.cpp.o	3c5343909516454f
+1	625	1791412267445066691	CMakeFiles/cudart_example.dir/examples/mnist.cpp.o	3fea1718aaebe0a1
+0	53	1791417465738521290	build.ninja	17603ccde6ea01bc
+0	53	1791417465738177122	/home/namesraz/Projects/InferenceEngine/build/cmake_install.cmake	17603ccde6ea01bc

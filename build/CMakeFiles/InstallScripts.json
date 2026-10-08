@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/namesraz/Projects/InferenceEngine/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

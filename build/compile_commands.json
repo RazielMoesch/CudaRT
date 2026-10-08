@@ -1,0 +1,50 @@
+[
+{
+  "directory": "/home/namesraz/Projects/InferenceEngine/build",
+  "command": "/usr/bin/g++ -I/home/namesraz/Projects/InferenceEngine/include -isystem /usr/local/cuda/targets/x86_64-linux/include -isystem /usr/local/cuda/targets/x86_64-linux/include/cccl -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/cudart_runtime.dir/src/tensor.cpp.o -c /home/namesraz/Projects/InferenceEngine/src/tensor.cpp",
+  "file": "/home/namesraz/Projects/InferenceEngine/src/tensor.cpp",
+  "output": "/home/namesraz/Projects/InferenceEngine/build/CMakeFiles/cudart_runtime.dir/src/tensor.cpp.o"
+},
+{
+  "directory": "/home/namesraz/Projects/InferenceEngine/build",
+  "command": "/usr/bin/g++ -I/home/namesraz/Projects/InferenceEngine/include -isystem /usr/local/cuda/targets/x86_64-linux/include -isystem /usr/local/cuda/targets/x86_64-linux/include/cccl -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/cudart_runtime.dir/src/model.cpp.o -c /home/namesraz/Projects/InferenceEngine/src/model.cpp",
+  "file": "/home/namesraz/Projects/InferenceEngine/src/model.cpp",
+  "output": "/home/namesraz/Projects/InferenceEngine/build/CMakeFiles/cudart_runtime.dir/src/model.cpp.o"
+},
+{
+  "directory": "/home/namesraz/Projects/InferenceEngine/build",
+  "command": "/usr/bin/g++ -I/home/namesraz/Projects/InferenceEngine/include -isystem /usr/local/cuda/targets/x86_64-linux/include -isystem /usr/local/cuda/targets/x86_64-linux/include/cccl -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/cudart_runtime.dir/src/utils.cpp.o -c /home/namesraz/Projects/InferenceEngine/src/utils.cpp",
+  "file": "/home/namesraz/Projects/InferenceEngine/src/utils.cpp",
+  "output": "/home/namesraz/Projects/InferenceEngine/build/CMakeFiles/cudart_runtime.dir/src/utils.cpp.o"
+},
+{
+  "directory": "/home/namesraz/Projects/InferenceEngine/build",
+  "command": "/usr/bin/g++ -I/home/namesraz/Projects/InferenceEngine/include -isystem /usr/local/cuda/targets/x86_64-linux/include -isystem /usr/local/cuda/targets/x86_64-linux/include/cccl -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/cudart_runtime.dir/src/loader.cpp.o -c /home/namesraz/Projects/InferenceEngine/src/loader.cpp",
+  "file": "/home/namesraz/Projects/InferenceEngine/src/loader.cpp",
+  "output": "/home/namesraz/Projects/InferenceEngine/build/CMakeFiles/cudart_runtime.dir/src/loader.cpp.o"
+},
+{
+  "directory": "/home/namesraz/Projects/InferenceEngine/build",
+  "command": "/usr/local/cuda/bin/nvcc -forward-unknown-to-host-compiler -I/home/namesraz/Projects/InferenceEngine/include -isystem /usr/local/cuda/targets/x86_64-linux/include -isystem /usr/local/cuda/targets/x86_64-linux/include/cccl -O3 -DNDEBUG -std=c++17 -arch=native -x cu -c /home/namesraz/Projects/InferenceEngine/src/layers/linear.cu -o CMakeFiles/cudart_runtime.dir/src/layers/linear.cu.o",
+  "file": "/home/namesraz/Projects/InferenceEngine/src/layers/linear.cu",
+  "output": "/home/namesraz/Projects/InferenceEngine/build/CMakeFiles/cudart_runtime.dir/src/layers/linear.cu.o"
+},
+{
+  "directory": "/home/namesraz/Projects/InferenceEngine/build",
+  "command": "/usr/local/cuda/bin/nvcc -forward-unknown-to-host-compiler -I/home/namesraz/Projects/InferenceEngine/include -isystem /usr/local/cuda/targets/x86_64-linux/include -isystem /usr/local/cuda/targets/x86_64-linux/include/cccl -O3 -DNDEBUG -std=c++17 -arch=native -x cu -c /home/namesraz/Projects/InferenceEngine/src/layers/relu.cu -o CMakeFiles/cudart_runtime.dir/src/layers/relu.cu.o",
+  "file": "/home/namesraz/Projects/InferenceEngine/src/layers/relu.cu",
+  "output": "/home/namesraz/Projects/InferenceEngine/build/CMakeFiles/cudart_runtime.dir/src/layers/relu.cu.o"
+},
+{
+  "directory": "/home/namesraz/Projects/InferenceEngine/build",
+  "command": "/usr/bin/g++ -I/home/namesraz/Projects/InferenceEngine/include -isystem /usr/local/cuda/targets/x86_64-linux/include -isystem /usr/local/cuda/targets/x86_64-linux/include/cccl -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/cudart_runtime.dir/src/layers/flatten.cpp.o -c /home/namesraz/Projects/InferenceEngine/src/layers/flatten.cpp",
+  "file": "/home/namesraz/Projects/InferenceEngine/src/layers/flatten.cpp",
+  "output": "/home/namesraz/Projects/InferenceEngine/build/CMakeFiles/cudart_runtime.dir/src/layers/flatten.cpp.o"
+},
+{
+  "directory": "/home/namesraz/Projects/InferenceEngine/build",
+  "command": "/usr/bin/g++ -DCUDART_BUILD_TYPE=\\\"Release\\\" -I/home/namesraz/Projects/InferenceEngine/include -isystem /usr/local/cuda/targets/x86_64-linux/include -isystem /usr/local/cuda/targets/x86_64-linux/include/cccl -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/cudart_example.dir/examples/mnist.cpp.o -c /home/namesraz/Projects/InferenceEngine/examples/mnist.cpp",
+  "file": "/home/namesraz/Projects/InferenceEngine/examples/mnist.cpp",
+  "output": "/home/namesraz/Projects/InferenceEngine/build/CMakeFiles/cudart_example.dir/examples/mnist.cpp.o"
+}
+]
